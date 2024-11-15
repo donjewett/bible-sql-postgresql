@@ -1,4 +1,4 @@
-# bible-sql
+# bible-sql-postgresql
 Bible database for PostgreSQL
 
 ## Flavors ##
