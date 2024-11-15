@@ -58,7 +58,7 @@ CREATE TABLE IF NOT EXISTS Books (
 	IsSectionEnd boolean NOT NULL DEFAULT false,
 	ChapterCount smallint NOT NULL,
 	OsisCode varchar(6) NOT NULL,
-	Paratext varchar(3) NOT NULL,
+	Paratext char(3) NOT NULL,
 	CONSTRAINT PK_Books PRIMARY KEY (Id),
 	CONSTRAINT FK_Books_Canons FOREIGN KEY (CanonId) REFERENCES Canons (Id),
 	CONSTRAINT FK_Books_Sections FOREIGN KEY (SectionId) REFERENCES Sections (Id)
