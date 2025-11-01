@@ -1,5 +1,5 @@
-# bible-sql-postgresql
-Bible database for PostgreSQL
+# Bible SQL: PostgreSQL
+Bible database for SQL
 
 ## Flavors ##
 
