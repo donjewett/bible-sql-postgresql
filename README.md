@@ -130,4 +130,4 @@ Additional tables are included for:
 
 [Browseable schema document](https://htmlpreview.github.io/?https://raw.githubusercontent.com/donjewett/bible-sql-postgresql/main/docs/bible-schema.htm)
 
-[updated 2025-10-24]
+[updated 2025-10-31]
